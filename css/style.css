@@ -1,0 +1,45 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 5%;
+}
+
+h1{
+    color: red;
+    font-size: 50px;
+    line-height: 20px;
+}
+
+.h1-span{color: blue;}
+
+p{
+    color: blue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.p-span{color: red;}
+
+.btn{
+    border-radius: 10px;
+    padding: 10px;
+    border-style: double;
+    border-color: black;
+}
+
+a{
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.b1, .b2, .b3{
+    border-radius: 15px;
+    margin: 25px;
+    height: 100px;
+    display: inline-block;
+}
+
+.b1{width: 200px; background-color: red;}
+.b2{width: 250px; background-color: black;}
+.b3{width: 300px; background-color: blue;}
